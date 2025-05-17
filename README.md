@@ -5,4 +5,4 @@ The game can be played on a pc via this link : [Princess-Knight](https://petra-r
 
 The assets used in this game are not owned by me.
 
-![](https://i.imgur.com/dSVsxZ1.png)
+![Game ScreenShot](https://i.imgur.com/dSVsxZ1.png)
