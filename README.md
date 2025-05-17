@@ -1,7 +1,3 @@
-Your write-up is already very good! Here's a slightly refined and more polished version of your project description for clarity, grammar, and consistency:
-
----
-
 ## 🏰 Platformer Game using Godot Engine
 
 This was my **first attempt at making a game** using the [Godot Game Engine](https://godotengine.org/).
