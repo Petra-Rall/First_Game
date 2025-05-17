@@ -1,8 +1,23 @@
-# Platformer Game using Godot Game Engine.
-This was my first attempt at making a game with Godot. The game has been exported to HTML format to play on a web browser.
+Your write-up is already very good! Here's a slightly refined and more polished version of your project description for clarity, grammar, and consistency:
 
-The game can be played on a pc via this link : [Princess-Knight](https://petra-rall.github.io/Princess-Kinight/). (The game has not been optimized for playing on smartphones)
+---
 
-The assets used in this game are not owned by me.
+## 🏰 Platformer Game using Godot Engine
 
-![Game ScreenShot](https://i.imgur.com/dSVsxZ1.png)
+This was my **first attempt at making a game** using the [Godot Game Engine](https://godotengine.org/).
+The game has been exported to **HTML5**, so you can play it directly in your web browser.
+
+### 🎮 Play the Game
+
+Play it on PC here: [**Princess-Knight**](https://petra-rall.github.io/Princess-Kinight/)
+
+> *(Note: The game is not optimized for smartphones.)*
+
+### 🎨 Assets
+
+All assets used in this project are **not owned by me** and are used for educational/demonstration purposes only.
+
+### 🖼️ Screenshot
+
+![Game Screenshot](https://i.imgur.com/dSVsxZ1.png)
+
