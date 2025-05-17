@@ -5,7 +5,7 @@ The game has been exported to **HTML5**, so you can play it directly in your web
 
 ### 🎮 Play the Game
 
-Play it on PC here: [**Princess-Knight**](https://petra-rall.github.io/Princess-Kinight/)
+Play it on PC here: [**Princess-Knight**](https://petra-rall.github.io/Princess-Knight/)
 
 > *Note: The game is not optimized for smartphones.*
 
